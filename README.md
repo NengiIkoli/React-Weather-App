@@ -7,7 +7,7 @@ This app pulls real-time weather data from the **OpenWeather API** based on a us
 ---
 
 ## 🚀 **Live Demo**
-🔗 **[View the app live here]("https://nengiikoli.github.io/React-Weather-App/")**  
+🔗 **[View the app live here](https://nengiikoli.github.io/React-Weather-App/)**  
 
 ---
 
